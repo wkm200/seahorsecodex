@@ -1,0 +1,8 @@
+numpy
+scikit-image
+matplotlib
+cellpose
+opencv-python-headless
+imaris-ims-file-reader
+pandas
+tifffile
